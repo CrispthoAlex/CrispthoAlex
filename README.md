@@ -1,21 +1,43 @@
-<h1 align="center">Hi code-friend!!!👋, I'm Crispthofer</h1>
-<h3 align="center">"We are made of code, let your fingers be the brushes of this wonderful digital art"</h3>
-<p>
-  <strong>Welcome to my GitHub profile. Enjoy, Follow me and let's Share content 👋</strong>
-</p>
-
-<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crispthoalex&show_icons=true&count_private=true&theme=shades-of-purple&show_icons=true" alt="crispthoalex" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispthoalex&langs_count=10&theme=shades-of-purple&layout=compact&show_icons=true" alt="crispthoalex" /></p>
-
-<div> <!-- Pinned repositories -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crispthoalex&repo=printf&theme=shades-of-purple&show_icons=true" alt="crispthoalex" /></p>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=untalinfo&repo=AirBnB_clone_v3&theme=shades-of-purple&show_icons=true" alt="crispthoalex" /></p>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif"
+  width="100%" height="100%"
+  />
+  <!-- style="position:absolute" -->
+  <!-- class="giphy-embed" -->
+  <!-- frameBorder="0" -->
 </div>
+<br/>
+<div>
+  <h1 align="center">Hi 👋, code-friend!!!</h1>
+  <h3 align="center">"We are made of code, let your fingers be the brushes of this wonderful digital art"</h3>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/carmurrain">
+  <img src="https://img.shields.io/badge/LinkedIn-orange?logo=linkedin&logoColor=black" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://twitter.com/crispthoalex">
+    <img src="https://img.shields.io/badge/Twitter-orange?logo=twitter&logoColor=black" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/crispthoalex" target="blank">
+    <img src="https://img.shields.io/badge/Hackerrank-orange?logo=hackerrank&logoColor=black" alt="Twitter Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrispthoAlex&style=flat-square&color=blueviolet" alt=""/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+<!-- ### :technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="40"> from Colombia <img src="https://media.giphy.com/media/1gm6V7NkVLvhe/giphy.gif" width="25">.
 
 <div align="center">
   <h3> More Stats about me </h3>
@@ -30,4 +52,4 @@
 <a href="https://twitter.com/crispthoalex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crispthoalex" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/carmurrain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carmurrain" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/crispthoalex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="crispthoalex" height="30" width="30" /></a>
-</p>
+</p> -->
