@@ -41,11 +41,11 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/4XX
 
 - 🖥️ I'm working as a software developer and contributing to frontend and backend for building web applications.
 
-- <img src="https://media.giphy.com/media/Zq6xNUJVmeWmuEKXHi/giphy.gif" width="35"> I like to play with [Figma](www.figma.com).
+- I like to play with [Figma](www.figma.com) <img src="https://media.giphy.com/media/GPWqpCv4d6zFPmCvSV/giphy.gif" width="45">.
 
-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlpbHFhc3p4ODYyZzFhbjlrODdrN293ZGpvaGh0a3VvMXllMGh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="30"> I rely on statistics to improve my performance.
+- 📊 I rely on statistics to improve my performance <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlpbHFhc3p4ODYyZzFhbjlrODdrN293ZGpvaGh0a3VvMXllMGh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="45">.
 
-- I'm learning about Data Science. First, R trainning 👨‍💻.
+- 👨‍💻 I'm learning about Data Science. First, R trainning <img src="https://media.giphy.com/media/SvEUbsayyUlcPm41Tl/giphy.gif" width="45">.
 
 - How to reach me [![Linkedin Badge](https://img.shields.io/badge/-carmurrain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carmurrain)
 
