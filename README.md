@@ -78,3 +78,10 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/4XX
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 💹 My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CrispthoAlex&theme=solarized-dark&hide_border=true&mode=weekly&border=EB5D0B)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrispthoAlex&layout=compact&theme=vision-friendly-dark)](https://github.com/crispthoalex/github-readme-stats)
