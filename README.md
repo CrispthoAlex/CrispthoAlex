@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif"
   width="300" height="300"
   />
-  <!-- style="position:absolute" -->
+  <!-- style="position: absolute" -->
   <!-- class="giphy-embed" -->
   <!-- frameBorder="0" -->
 </div>
@@ -49,7 +49,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/4XX
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlpbHFhc3p4ODYyZzFhbjlrODdrN293ZGpvaGh0a3VvMXllMGh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="65">.
 
-- 👨‍💻 I'm learning about Data Science. First, R trainning
+- 👨‍💻 I'm learning about Data Science. First, R training
 
 <img src="https://media.giphy.com/media/SvEUbsayyUlcPm41Tl/giphy.gif" width="65">.
 
