@@ -89,20 +89,24 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/4XX
 </div>
 
 ---
+
 ### 💹 My stats:
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CrispthoAlex&show_icons=true&theme=solarized-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CrispthoAlex&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=CrispthoAlex&show_icons=true" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CrispthoAlex&show_icons=true&theme=solarized-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CrispthoAlex&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=CrispthoAlex&show_icons=true" />
+  </picture>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CrispthoAlex&theme=solarized-dark&hide_border=true&mode=weekly&border=EB5D0B)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrispthoAlex&layout=compact&theme=solarized-dark&show_icons=true)](https://github.com/crispthoalex/github-readme-stats)
+
+</div>
